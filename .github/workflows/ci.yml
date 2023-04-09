@@ -1,7 +1,7 @@
 name: ci
 
 env:
-  CONFIG_REPO_NAME: argocd-course-webapp-config
+  CONFIG_REPO_NAME: argocd-course-webapp
   
 on:
   push:
