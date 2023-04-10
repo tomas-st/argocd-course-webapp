@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: tomas-st/argocd-course-webapp
+  repository: tomdoc/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: df8870a95f7f7d9f0834309aa8818ef6ea00edad
+  tag: 96ec848385d049ab5ca7801cd0e4008de17ecbd8
 
 imagePullSecrets: []
 nameOverride: ""
